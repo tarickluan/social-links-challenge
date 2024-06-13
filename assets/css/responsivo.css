@@ -1,0 +1,31 @@
+@media(max-width: 375px) {
+    .cartao-perfil {
+        padding: 1.5rem;
+    }
+
+    h1 {
+        font-size: 1.25rem;
+    }
+
+    .social-link {
+        padding: 0.5rem;
+    }
+}
+
+@media(min-width:1440px) {
+    .container {
+        padding: 2rem;
+    }
+
+    .cartao-perfil {
+        padding: 3rem;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .social-link {
+        padding: 1rem;
+    }
+}
